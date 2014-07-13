@@ -1,0 +1,24 @@
+{
+
+    "name": "warmans/silex-exception-provider",
+    "type": "library",
+    "description": "Provider that converts PHP errors to catchable ErrorExceptions",
+    "keywords": ["exceptions", "errors", "silex"],
+    "homepage": "https://github.com/warmans/silex-exception-provider",
+    "authors": [
+        {
+            "name": "Stefan Warman",
+            "email": "stefan.warman@gmail.com"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/warmans/silex-exception-provider"
+    },
+    "require-dev": {
+        "silex/silex": "~1.2"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"SilexProvider\\": "src/"}
+    }
+}
