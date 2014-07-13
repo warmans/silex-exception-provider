@@ -1,5 +1,5 @@
 <?php
-namespace SilexProvider;
+namespace Warmans\Silex;
 
 use Silex\Application;
 use Silex\ServiceProviderInterface;

@@ -19,6 +19,6 @@
     },
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"SilexProvider\\": "src/"}
+        "psr-4": {"Warmans\\Silex\\": "src/"}
     }
 }

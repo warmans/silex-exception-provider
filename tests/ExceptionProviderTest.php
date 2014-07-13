@@ -1,5 +1,5 @@
 <?php
-namespace SilexProvider;
+namespace Warmans\Silex;
 
 class ExceptionProviderTest extends \PHPUnit_Framework_TestCase
 {
